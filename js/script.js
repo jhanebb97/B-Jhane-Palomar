@@ -12,14 +12,3 @@ window.onscroll = () =>{
     header.classList.remove('active');
 }
 
-const IT_3102 = [
-  {
-    code: "20-08732",
-    name: "Palomar, B-Jhane F. ",
-    activities: {
-      website: {
-         link: "https://jhanebb97.github.io/B-Jhane-Palomar/",
-         code: "https://github.com/jhanebb97/B-Jhane-Palomar.git",
-          
- 
-}
